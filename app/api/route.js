@@ -8,6 +8,7 @@ export const tests =
         {subjectId:"INFO099", subjectName:"Estructura Discretas", testDate:"10 17, 2023 09:50:00 GMT -03:00"},
         {subjectId:"BAIN087", subjectName:"Métodos Numéricos", testDate:"09 13, 2023 17:30:00 GMT -03:00"},
         {subjectId:"BAIN087", subjectName:"Métodos Numéricos", testDate:"10 25, 2023 17:30:00 GMT -03:00"},
+        {subjectId:"BAIN085", subjectName:"Física: Ondas y Electromagnetismo", testDate:"10 19, 2023 17:30:00 GMT -03:00"},
     ]
 
 export async function GET() {
